@@ -14,7 +14,7 @@
 
 // Operating System: Windows 11 Home Insider Preview
 
-package Part1;
+package part1;
 
 import java.util.Scanner;
 import java.util.ArrayList;

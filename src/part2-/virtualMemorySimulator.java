@@ -14,7 +14,7 @@
 
 // Operating System: Windows 11 Home Insider Preview
 
-package Part2;
+package part2;
 
 import java.util.Scanner;
 import java.io.*;
@@ -40,8 +40,8 @@ public class virtualMemorySimulator {
   // **************************** Main Function ****************************
     public static void main(String[] args) throws FileNotFoundException {
         
-        File addresses = new File(System.getProperty("user.dir") + "/Memory_Management_OS/Addresses.txt");
-        File values = new File(System.getProperty("user.dir") + "/Memory_Management_OS/Correct.txt");
+        File addresses = new File(System.getProperty("user.dir") + "/Memory_Management_OS/addresses.txt");
+        File values = new File(System.getProperty("user.dir") + "/Memory_Management_OS/correct.txt");
           if(!addresses.exists() || !values.exists()){
             System.out.println("The file dose not exist");
             System.exit(0);
