@@ -79,14 +79,14 @@ This simulator helps visualize how these two memory types are managed, and how O
    ```bash
    Memory_Management_OS/
    ├── src/
-   │   ├── Part1/                             
+   │   ├── part1/                             
    │   │   ├── block.java                    # Class for memory block structure
    │   │   └── mainMemorySimulator.java      # Main memory management simulator
-   │   └── Part2/
+   │   └── part2/
    │       └── virtualMemorySimulator.java   # Virtual memory management simulator
-   ├── Addresses.txt
-   ├── Correct.txt
-   ├── Execution_Output_For_All_Test_Cases.pdf
+   ├── addresses.txt
+   ├── correct.txt
+   ├── execution_output_for_all_test_cases.pdf
    └── README.md
    ```
 ## 👨‍💻 Authors
