@@ -77,7 +77,7 @@ This simulator helps visualize how these two memory types are managed, and how O
 ## 📁 Project Structure
 
    ```bash
-   memory_management_os/
+   memory-management-os/
    ├── src/
    │   ├── part1/                             
    │   │   ├── block.java                    # Class for memory block structure
