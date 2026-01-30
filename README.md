@@ -86,7 +86,7 @@ This simulator helps visualize how these two memory types are managed, and how O
    │       └── virtualMemorySimulator.java   # Virtual memory management simulator
    ├── addresses.txt
    ├── correct.txt
-   ├── execution_output_for_all_test_cases.pdf
+   ├── execution-output-for-all-test-cases.pdf
    └── README.md
    ```
 ## 👨‍💻 Authors
